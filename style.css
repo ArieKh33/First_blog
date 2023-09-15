@@ -1,0 +1,72 @@
+h1 {
+    color: red;
+    font-size: xx-large;
+    text-align: center;
+}
+
+h3 {
+    color:blue;
+    background-color:white ;
+    margin-bottom: -16px;
+}
+.bio {
+    color:blueviolet;
+    background-color:white;
+}
+ol {
+    color: greenyellow;
+}
+
+body {
+    background-color: rgb(204, 205, 248);
+}
+.paarst {
+
+    color: violet;
+
+}
+.series {
+    color:aqua;
+}
+.brit {
+    width: 500px;
+    height: 500px;
+}
+
+.eersteblog {
+    background-color: darkblue;
+    color: aliceblue;
+    border-color: black;
+    border: 2px;
+    border-style: solid;
+}
+
+.blogtitel {
+    color: mediumvioletred;
+    text-align: center;
+}
+.blogmomento {
+    color:deepskyblue;
+    text-align: left;
+    margin-top: 3px;
+}
+.writer {
+    margin-top: -33px;
+
+}
+
+.link {
+    background-color: gainsboro;
+    text-align: center;
+}
+footer {
+    background-color: cornsilk;
+    display: block;
+    block-size: 225px;
+}
+
+.email {font-size: x-large;
+    text-align:center;
+    padding-top: 50px;
+   
+}
